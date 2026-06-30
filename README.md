@@ -20,7 +20,7 @@ A command-line implementation of the classic Top Trumps card game, built in Pyth
 ## Running it
 
 ```bash
-python top_trumps.py
+python main.py
 ```
 
 No external dependencies — just the Python standard library (`random`).
